@@ -14,7 +14,7 @@ app = Flask(__name__)
 db = mysql.connector.connect(
     host="localhost",
     user="root",          # change if your MySQL user is different
-    password="Shreya$123",  # replace with your MySQL password
+    password="Manik@358",  # replace with your MySQL password
     database="loanDB"
 )
 cursor = db.cursor()
